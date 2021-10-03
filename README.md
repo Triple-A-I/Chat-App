@@ -10,6 +10,9 @@ It enables users to chat in group.
 with email and password.
 - FireStorage to save pictures of the user on firebase.
 - streambuilders to enable realtime chat.
+- Validation to check if email is valid, already used, not registered.
+
+
 
 ## Future work
 
