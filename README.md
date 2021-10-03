@@ -1,8 +1,8 @@
 # chat_app
 
--Flutter App for chat groups.
+- Flutter App for chat groups.
 
-ChatApp is a flutter app with firebase as a backend.
+- ChatApp is a flutter app with firebase as a backend.
 It enables users to chat in group.
 
 #Features
