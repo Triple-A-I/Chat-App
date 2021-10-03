@@ -15,6 +15,13 @@ with email and password.
 
 
 ![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171343.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171407.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171432.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171444.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171457.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-171506.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-180237.png?raw=true)
+![alt text](https://github.com/albraa-abdalla/Chat-App/blob/master/assets/Screenshot_20211003-180242.png?raw=true)
 
 ## Future work
 
