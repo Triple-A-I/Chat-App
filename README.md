@@ -11,6 +11,7 @@ with email and password.
 - FireStorage to save pictures of the user on firebase.
 - streambuilders to enable realtime chat.
 - Validation to check if email is valid, already used, not registered.
+- When user create new account,it is mandatory to add image.
 
 
 
